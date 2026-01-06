@@ -1,0 +1,8 @@
+/vendor
+/.env.*
+!/example.env.*
+/docker/*
+!/docker/.gitkeep
+/docker-compose.yml
+*.bak-*
+/.phpunit.cache/
